@@ -1,5 +1,8 @@
 # hello-world
 Just another repository.
 
-Hello, everybody!
-This is my first contact with the GitHub. I've just created the hello-world repository and a branch named readme-edits.
+This is a repository to store some tools, ideas, random exercises, etc...
+- Reading files
+- Plots
+- Ideas of analysis
+- ...
